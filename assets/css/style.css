@@ -1741,3 +1741,7 @@ input:-webkit-autofill:focus {
   /* color: #351C75; */
   color: #0099ff;
 }
+
+.projectnotfound {
+  text-align: center;
+}
